@@ -6,13 +6,14 @@
     <Version>1.0.0</Version>
     <Authors>Giovanni Quarella</Authors>
     <PackageTags>wpf;data virtualization;</PackageTags>
-    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageIcon>icon.png</PackageIcon>
     <Description>DataVirtualization</Description>
     <RepositoryUrl>https://github.com/GioviQ/DataVirtualization</RepositoryUrl>
     <PackageProjectUrl>https://github.com/GioviQ/DataVirtualization</PackageProjectUrl>
     <PackageIconUrl />
+    <PackageReleaseNotes>Derived from https://github.com/bstollnitz/old-wpf-blog/tree/master/64-DataVirtualizationFilteringSorting</PackageReleaseNotes>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
